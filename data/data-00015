@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "data-00015",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.296736150818091, 34.001486807226186 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.296782442281085, 34.001673015941073 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Riverside Park" }, "geometry": { "type": "Point", "coordinates": [ -84.34593795727362, 34.00611987286981 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Riverside Park" }, "geometry": { "type": "Point", "coordinates": [ -84.347129622129515, 34.005871533076885 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Grimes Bridge Park" }, "geometry": { "type": "Point", "coordinates": [ -84.346539604472525, 34.020606765882789 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Grimes Bridge Park" }, "geometry": { "type": "Point", "coordinates": [ -84.346447518331786, 34.020449780253486 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Groveway Community Park" }, "geometry": { "type": "Point", "coordinates": [ -84.349334079365661, 34.020264718329088 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Groveway Community Park" }, "geometry": { "type": "Point", "coordinates": [ -84.349332169210982, 34.02041479259686 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Grimes Bridge Park" }, "geometry": { "type": "Point", "coordinates": [ -84.348590949343276, 34.020420257799884 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Grimes Bridge Park" }, "geometry": { "type": "Point", "coordinates": [ -84.348589343344713, 34.020240997992552 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Groveway Community Park" }, "geometry": { "type": "Point", "coordinates": [ -84.34944420827641, 34.02071491234512 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Hembree Park" }, "geometry": { "type": "Point", "coordinates": [ -84.335649030825167, 34.064573890425947 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Hembree Park" }, "geometry": { "type": "Point", "coordinates": [ -84.335746070935514, 34.064398565000353 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Groveway Community Park" }, "geometry": { "type": "Point", "coordinates": [ -84.349476429254125, 34.0210851891418 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Groveway Community Park" }, "geometry": { "type": "Point", "coordinates": [ -84.349476567342094, 34.021149598637386 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Roswell Area Park" }, "geometry": { "type": "Point", "coordinates": [ -84.367544392709249, 34.042595509298501 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Roswell Area Park" }, "geometry": { "type": "Point", "coordinates": [ -84.366832872698637, 34.042633021905473 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Roswell Area Park" }, "geometry": { "type": "Point", "coordinates": [ -84.365164386373081, 34.037957797306667 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Roswell Area Park" }, "geometry": { "type": "Point", "coordinates": [ -84.367521604903999, 34.037577814076663 ] } }
+]
+}

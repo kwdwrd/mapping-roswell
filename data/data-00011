@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "data-00011",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ParkName": "Riverside Park" }, "geometry": { "type": "Point", "coordinates": [ -84.345061662859962, 34.006303147660851 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Leita Thompson Park" }, "geometry": { "type": "Point", "coordinates": [ -84.406972300859962, 34.062974770843574 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Leita Thompson Park" }, "geometry": { "type": "Point", "coordinates": [ -84.406875864079424, 34.062929277505532 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Leita Thompson Park" }, "geometry": { "type": "Point", "coordinates": [ -84.406898245733899, 34.062988393765352 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Leita Thompson Park" }, "geometry": { "type": "Point", "coordinates": [ -84.406952057778483, 34.062911475063288 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Roswell Area Park" }, "geometry": { "type": "Point", "coordinates": [ -84.367590313659036, 34.039540146473598 ] } }
+]
+}

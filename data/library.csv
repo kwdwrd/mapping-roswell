@@ -1,0 +1,42 @@
+label,_filename,layer,ix
+road,./data/data-00007,,
+water,./data/data-00008,,
+streams,./data/data-00009,,
+park,./data/data-00010,Water Fountains,0
+park,./data/data-00011,Trees,1
+park,./data/data-00012,Trash Containers,2
+park,./data/data-00013,Trail Counters,3
+park,./data/data-00014,Signs,4
+park,./data/data-00015,Shade Structures,5
+park,./data/data-00016,Portalets,6
+park,./data/data-00017,Playground Equipment,7
+park,./data/data-00018,Tables,8
+park,./data/data-00019,Outdoor Exercise Equipment,9
+park,./data/data-00020,Markers,11
+park,./data/data-00021,Lights,12
+park,./data/data-00022,Grills,13
+park,./data/data-00023,Flagpoles,14
+park,./data/data-00024,Field Accessories,15
+park,./data/data-00025,Golf Tee,16
+park,./data/data-00026,Golf Hole,17
+park,./data/data-00027,Camp Sites,18
+park,./data/data-00028,BoatRamp,19
+park,./data/data-00029,Bicycle Racks,20
+park,./data/data-00030,Benches,21
+park,./data/data-00031,Trails,22
+park,./data/data-00032,Fence,23
+park,./data/data-00033,Disc Golf Courses,24
+park,./data/data-00034,Bridges,25
+park,./data/data-00035,Spraygrounds,26
+park,./data/data-00036,Shelters,27
+park,./data/data-00037,RoswellParks,28
+park,./data/data-00038,Pools,29
+park,./data/data-00039,Playground Area,30
+park,./data/data-00040,Parking Lots,31
+park,./data/data-00041,Open Space,32
+park,./data/data-00042,Fields,33
+park,./data/data-00043,Dog Parks,34
+park,./data/data-00044,Docks,35
+park,./data/data-00045,Courts,36
+park,./data/data-00046,Allotment,37
+park,./data/data-00047,Buildings,38

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "data-00013",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ParkName": "Big Creek Park" }, "geometry": { "type": "Point", "coordinates": [ -84.312007416571433, 34.02449151657126 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Big Creek Park" }, "geometry": { "type": "Point", "coordinates": [ -84.31074757871815, 34.03057051915733 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Big Creek Park" }, "geometry": { "type": "Point", "coordinates": [ -84.310682009445031, 34.030359433873954 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Willeo Park" }, "geometry": { "type": "Point", "coordinates": [ -84.38465635006115, 33.995512350376366 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Big Creek Park" }, "geometry": { "type": "Point", "coordinates": [ -84.30999545366106, 34.029487685250679 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Greenspace (Willeo Rd)" }, "geometry": { "type": "Point", "coordinates": [ -84.371638567781858, 34.002214720810372 ] } }
+]
+}

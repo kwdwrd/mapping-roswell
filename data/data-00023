@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "data-00023",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.29641805357997, 33.998774033809191 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.346790478454579, 34.00652339941567 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.346365464673639, 34.005639596748665 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.346602373265398, 34.020911621638071 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.363319446731794, 34.014488744143861 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.363280993792785, 34.014477869900098 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.363243654452717, 34.014488375723573 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.337075039596883, 34.062738454608372 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.34677903235071, 34.006555906917612 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.346818956920799, 34.006548097234436 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.362274154741698, 34.039066750464727 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.366938665029991, 34.039711935613553 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.366970065059775, 34.039730136731457 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.36693665699498, 34.039744158050667 ] } },
+{ "type": "Feature", "properties": { "PoleMaterial": "Metal" }, "geometry": { "type": "Point", "coordinates": [ -84.359765180677883, 34.022586924389557 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "data-00028",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Surface": "Concrete" }, "geometry": { "type": "Point", "coordinates": [ -84.264379464934862, 33.973065110096556 ] } },
+{ "type": "Feature", "properties": { "Surface": "Concrete" }, "geometry": { "type": "Point", "coordinates": [ -84.363397984435437, 34.001683430497081 ] } }
+]
+}

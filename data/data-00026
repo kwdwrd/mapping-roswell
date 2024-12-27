@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "data-00026",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "BasketNum": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -84.296497944870438, 34.003058961029723 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 4.0 }, "geometry": { "type": "Point", "coordinates": [ -84.294209434262086, 34.001911729510795 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 2.0 }, "geometry": { "type": "Point", "coordinates": [ -84.295977596394522, 34.002428263957938 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 3.0 }, "geometry": { "type": "Point", "coordinates": [ -84.294479750590938, 34.00149309522287 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 5.0 }, "geometry": { "type": "Point", "coordinates": [ -84.295439310289694, 34.002153547662246 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 10.0 }, "geometry": { "type": "Point", "coordinates": [ -84.298555869538077, 34.002569038554164 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 11.0 }, "geometry": { "type": "Point", "coordinates": [ -84.299102453436191, 34.003192652079143 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 12.0 }, "geometry": { "type": "Point", "coordinates": [ -84.298342634297001, 34.003164321061902 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 15.0 }, "geometry": { "type": "Point", "coordinates": [ -84.297557752872265, 34.004412596207466 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 14.0 }, "geometry": { "type": "Point", "coordinates": [ -84.298103917666865, 34.003905910133206 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 16.0 }, "geometry": { "type": "Point", "coordinates": [ -84.297651546575381, 34.003065666047682 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 17.0 }, "geometry": { "type": "Point", "coordinates": [ -84.29903212930347, 34.002892621657182 ] } },
+{ "type": "Feature", "properties": { "BasketNum": 18.0 }, "geometry": { "type": "Point", "coordinates": [ -84.297514753454493, 34.002764252991938 ] } },
+{ "type": "Feature", "properties": { "BasketNum": null }, "geometry": { "type": "Point", "coordinates": [ -84.297943739070334, 34.003232382438888 ] } }
+]
+}

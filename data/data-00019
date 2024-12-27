@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "data-00019",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295260526627146, 33.997869521299783 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295202462231984, 33.997856093727755 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295228920592521, 33.997870959959911 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295166612029107, 33.997860639284298 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295107121352785, 33.997882033763346 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295103840433626, 33.997858408404852 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295125064340624, 33.997904585309662 ] } },
+{ "type": "Feature", "properties": { "ParkName": "East Roswell Park" }, "geometry": { "type": "Point", "coordinates": [ -84.295172063223646, 33.997884148769863 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336834124758624, 34.01081804004648 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336880948659584, 34.010812838738005 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336837916127095, 34.01086572230728 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336854336484961, 34.010904515168185 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336960404936775, 34.010918579675213 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336917661270988, 34.010896501405981 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336908019609865, 34.010850708021508 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.337046499828787, 34.010883653465037 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.337045283834115, 34.010867857891149 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336991739063521, 34.010809271844714 ] } },
+{ "type": "Feature", "properties": { "ParkName": "Don White Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -84.336962142624273, 34.010781369862578 ] } }
+]
+}
